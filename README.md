@@ -1,2 +1,2 @@
-# WT_test
+# WillemTraupel-Lab1
 test
